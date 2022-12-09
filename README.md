@@ -1,4 +1,4 @@
-# GlobalFlightSimulator
+# Global-Flight-Simulator
 
 
 This project, built in the Unity game engine, is a flight simulator which allows the user to fly a Boeing 787 Dreamliner across the globe. The airplane's destinations are set by clicking on the point on the globe you wish to fly to.
