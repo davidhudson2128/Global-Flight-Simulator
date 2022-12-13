@@ -1,7 +1,7 @@
 # Global-Flight-Simulator
 
 
-This project, built in the Unity game engine, is a flight simulator which allows the user to fly a Boeing 787 Dreamliner across the globe. The airplane's destinations are set by clicking on the point on the globe you wish to fly to.
+This project, built in the Unity game engine using C#, is a flight simulator which allows the user to fly a Boeing 787 Dreamliner across the globe. The airplane's destinations are set by clicking on the point on the globe you wish to fly to.
 
 A predetermined flight plan can be set by adding (longitude, latitude) tuples to the locationsList list in PlaneMovementScript.cs (GlobalFlightSimulator/Assets/Scripts/PlaneMovementScript.cs). The algorithm uses matrix multiplication to apply linear maps to the airplane.
 
